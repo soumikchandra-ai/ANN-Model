@@ -60,9 +60,3 @@ This project implements an **Artificial Neural Network (ANN)** to classify handw
 
 ---
 
-## ▶️ How to Run
-```bash
-git clone https://github.com/your-username/ann-digit-classification.git
-cd ann-digit-classification
-pip install -r requirements.txt
-python train.py
